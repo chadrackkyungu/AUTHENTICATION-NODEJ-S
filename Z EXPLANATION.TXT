@@ -1,0 +1,19 @@
+Mailgun password => 40197913M@ilgun
+
+(1) Dependencies
+================
+//=> npm install mailgun-js
+1 //=> npm init -y
+2 //=> npm i --save express
+3 //=> npm i nodemon
+3 //=> npm i dotenv  
+3 //=> npm i morgan  
+//=> npm i npm i nodemailer
+//=> npm i express-rate-limit # this package managed the user how many time he / she attempts to login
+//=> npm i helmet #always use this package in all your application
+//=> npm i express-mongo-sanitize # For protecting against NoSQL injection
+//=> npm i xss-clean
+//=> npm i hpp #for avoiding hpp(paramter) uplication Errors
+//=> npm i cookie-parser
+//=> npm i multer@1.4.1
+//=>  npm i sharp
